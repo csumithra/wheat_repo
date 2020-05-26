@@ -1,0 +1,5 @@
+WheatHead 0.0 0.0 138.0 73.0
+WheatHead 642.0 2.0 795.0 66.0
+WheatHead 0.0 69.0 99.0 169.0
+WheatHead 760.0 0.0 862.0 71.0
+WheatHead 962.0 110.0 1024.0 213.0
